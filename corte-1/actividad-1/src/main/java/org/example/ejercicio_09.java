@@ -4,12 +4,12 @@ import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-public class ejercicios_09 extends JDialog {
+public class ejercicio_09 extends JDialog {
     private JPanel contentPane;
     private JSpinner spiValor;
     private JLabel etiResultado;
 
-    public ejercicios_09() {
+    public ejercicio_09() {
         setContentPane(contentPane);
         setModal(true);
 
@@ -32,7 +32,7 @@ public class ejercicios_09 extends JDialog {
     }
 
     public static void main(String[] args) {
-        ejercicios_09 dialog = new ejercicios_09();
+        ejercicio_09 dialog = new ejercicio_09();
         dialog.pack();
         dialog.setVisible(true);
         System.exit(0);

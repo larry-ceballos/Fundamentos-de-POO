@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_10" />
+    <configuration name="ejercicio_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_09" />
       <module name="actividad-1" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejercicios_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicios_09" />
+    <configuration name="ejercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_10" />
       <module name="actividad-1" />
       <extension name="coverage">
         <pattern>
@@ -135,7 +135,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ejercicio_10" />
-        <item itemvalue="Application.ejercicios_09" />
+        <item itemvalue="Application.ejercicio_09" />
         <item itemvalue="Application.ejercicio_08" />
         <item itemvalue="Application.ejercicio_07" />
         <item itemvalue="Application.ejercicio_06" />
@@ -163,7 +163,7 @@
       <workItem from="1772408735129" duration="251000" />
       <workItem from="1772409089606" duration="1824000" />
       <workItem from="1772411753292" duration="6969000" />
-      <workItem from="1772418854935" duration="4154000" />
+      <workItem from="1772418854935" duration="4506000" />
     </task>
     <servers />
   </component>
