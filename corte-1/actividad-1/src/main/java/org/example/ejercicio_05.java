@@ -1,8 +1,5 @@
 package org.example;
-
 import javax.swing.*;
-import javax.swing.border.TitledBorder;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
@@ -10,7 +7,7 @@ import java.awt.event.MouseEvent;
 
 public class ejercicio_05 extends JDialog {
     private JPanel contentPane;
-    private JLabel etiResltado;
+    private JLabel etiResultado;
     private JList lstNombres;
     private JButton btnCurso1;
     private JButton btnCurso2;
@@ -57,7 +54,7 @@ public class ejercicio_05 extends JDialog {
              */
             @Override
             public void mouseClicked(MouseEvent e) {
-                etiResltado.setText(lstNombres.getSelectedValue().toString());
+                etiResultado.setText(lstNombres.getSelectedValue().toString());
             }
         });
     }
