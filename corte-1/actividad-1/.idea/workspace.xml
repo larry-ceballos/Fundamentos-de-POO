@@ -46,6 +46,7 @@
     "Application.ejercicio_04.executor": "Run",
     "Application.ejercicio_05.executor": "Run",
     "Application.ejercicio_06.executor": "Run",
+    "Application.ejercicio_07.executor": "Run",
     "Application.ejercicio_6.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "OverrideImplement.generate.javadoc": "true",
@@ -62,22 +63,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ejercicio_06">
+  <component name="RunManager" selected="Application.ejercicio_07">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="actividad-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ejercicio_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_03" />
       <module name="actividad-1" />
       <extension name="coverage">
         <pattern>
@@ -128,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicio_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_07" />
+      <module name="actividad-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejercicio_07" />
         <item itemvalue="Application.ejercicio_06" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ejercicio_05" />
         <item itemvalue="Application.ejercicio_04" />
-        <item itemvalue="Application.ejercicio_03" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,7 @@
       <workItem from="1772408735129" duration="251000" />
       <workItem from="1772409089606" duration="1824000" />
       <workItem from="1772411753292" duration="6969000" />
-      <workItem from="1772418854935" duration="992000" />
+      <workItem from="1772418854935" duration="2322000" />
     </task>
     <servers />
   </component>
