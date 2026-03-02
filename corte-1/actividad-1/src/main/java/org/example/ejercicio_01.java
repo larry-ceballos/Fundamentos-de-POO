@@ -1,6 +1,7 @@
 package org.example;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -22,15 +23,15 @@ public class ejercicio_01 extends JDialog {
              */
             @Override
             public void actionPerformed(ActionEvent e) {
-                String mensaje="Animales elegidos: ";
+                String mensaje = "Animales elegidos: ";
                 if (chkPerro.isSelected()) {
-                    mensaje=mensaje+"Perro ";
+                    mensaje = mensaje + "Perro ";
                 }
                 if (chkGato.isSelected()) {
-                    mensaje=mensaje+"Gato ";
+                    mensaje = mensaje + "Gato ";
                 }
                 if (chkRaton.isSelected()) {
-                    mensaje=mensaje+"Raton ";
+                    mensaje = mensaje + "Raton ";
                 }
                 etiResultado.setText(mensaje);
             }
@@ -43,4 +44,5 @@ public class ejercicio_01 extends JDialog {
         dialog.setVisible(true);
         System.exit(0);
     }
+
 }

@@ -1,8 +1,13 @@
 package org.example;
 
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
+import javax.swing.plaf.FontUIResource;
+import javax.swing.text.StyleContext;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Locale;
 
 public class ejercicio_02 extends JDialog {
     private JPanel contentPane;
@@ -24,15 +29,15 @@ public class ejercicio_02 extends JDialog {
              */
             @Override
             public void actionPerformed(ActionEvent e) {
-                String mensaje="Color elegido: ";
+                String mensaje = "Color elegido: ";
 
 
                 if (optRojo.isSelected()) {
-                    mensaje=mensaje+"Rojo";
+                    mensaje = mensaje + "Rojo";
                 } else if (optVerde.isSelected()) {
-                    mensaje=mensaje+"Verde";
+                    mensaje = mensaje + "Verde";
                 } else if (optAzul.isSelected()) {
-                    mensaje=mensaje+"Azul";
+                    mensaje = mensaje + "Azul";
                 }
 
                 etiResultado.setText(mensaje);
@@ -46,4 +51,5 @@ public class ejercicio_02 extends JDialog {
         dialog.setVisible(true);
         System.exit(0);
     }
+
 }

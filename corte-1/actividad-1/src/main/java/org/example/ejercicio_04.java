@@ -1,6 +1,8 @@
 package org.example;
 
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Objects;
@@ -20,7 +22,7 @@ public class ejercicio_04 extends JDialog {
             @Override
             public void actionPerformed(ActionEvent e) {
                 String mensaje = "El color elegido es: ";
-                mensaje= mensaje + Objects.requireNonNull(cboColores.getSelectedItem());
+                mensaje = mensaje + Objects.requireNonNull(cboColores.getSelectedItem());
                 etiResultado.setText(mensaje);
             }
         });

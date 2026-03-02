@@ -39,41 +39,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "Application.ejercicio_01.executor": "Run",
     "Application.ejercicio_02.executor": "Run",
     "Application.ejercicio_03.executor": "Run",
     "Application.ejercicio_04.executor": "Run",
     "Application.ejercicio_05.executor": "Run",
+    "Application.ejercicio_06.executor": "Run",
+    "Application.ejercicio_6.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "OverrideImplement.generate.javadoc": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "249",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "314",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/larry/NetBeansProjects/ejercicio-02",
     "onboarding.tips.debug.path": "/home/larry/IdeaProjects/Fundamentos de POO/actividad-1/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "project.propGUI",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ejercicio_05">
-    <configuration name="ejercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_01" />
-      <module name="actividad-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ejercicio_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_02" />
+  <component name="RunManager" selected="Application.ejercicio_06">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="actividad-1" />
       <extension name="coverage">
         <pattern>
@@ -124,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_06" />
+      <module name="actividad-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejercicio_06" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ejercicio_05" />
         <item itemvalue="Application.ejercicio_04" />
         <item itemvalue="Application.ejercicio_03" />
-        <item itemvalue="Application.ejercicio_02" />
-        <item itemvalue="Application.ejercicio_01" />
       </list>
     </recent_temporary>
   </component>
@@ -154,11 +158,23 @@
       <workItem from="1772408428851" duration="62000" />
       <workItem from="1772408735129" duration="251000" />
       <workItem from="1772409089606" duration="1824000" />
-      <workItem from="1772411753292" duration="4655000" />
+      <workItem from="1772411753292" duration="6969000" />
+      <workItem from="1772418854935" duration="992000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

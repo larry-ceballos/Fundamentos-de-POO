@@ -1,6 +1,8 @@
 package org.example;
 
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
+import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
@@ -19,10 +21,10 @@ public class ejercicio_03 extends JDialog {
             @Override
             public void mouseClicked(MouseEvent e) {
                 String mensaje;
-                if(lstColores.getSelectedIndex() == -1){
+                if (lstColores.getSelectedIndex() == -1) {
                     mensaje = "No hay un color seleccionado.";
-                } else{
-                    mensaje = "El color seleccionado es: "+lstColores.getSelectedValue().toString();
+                } else {
+                    mensaje = "El color seleccionado es: " + lstColores.getSelectedValue().toString();
                 }
 
                 etiResultado.setText(mensaje);
@@ -36,4 +38,5 @@ public class ejercicio_03 extends JDialog {
         dialog.setVisible(true);
         System.exit(0);
     }
+
 }
