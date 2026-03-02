@@ -47,7 +47,10 @@
     "Application.ejercicio_05.executor": "Run",
     "Application.ejercicio_06.executor": "Run",
     "Application.ejercicio_07.executor": "Run",
+    "Application.ejercicio_08.executor": "Run",
+    "Application.ejercicio_10.executor": "Run",
     "Application.ejercicio_6.executor": "Run",
+    "Application.ejercicios_09.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "OverrideImplement.generate.javadoc": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,46 +66,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ejercicio_07">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="actividad-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ejercicio_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_04" />
-      <module name="actividad-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ejercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_05" />
-      <module name="actividad-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ejercicio_10">
     <configuration name="ejercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_06" />
       <module name="actividad-1" />
@@ -129,13 +93,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicio_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_08" />
+      <module name="actividad-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_10" />
+      <module name="actividad-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicios_09" />
+      <module name="actividad-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejercicio_10" />
+        <item itemvalue="Application.ejercicios_09" />
+        <item itemvalue="Application.ejercicio_08" />
         <item itemvalue="Application.ejercicio_07" />
         <item itemvalue="Application.ejercicio_06" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ejercicio_05" />
-        <item itemvalue="Application.ejercicio_04" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +163,7 @@
       <workItem from="1772408735129" duration="251000" />
       <workItem from="1772409089606" duration="1824000" />
       <workItem from="1772411753292" duration="6969000" />
-      <workItem from="1772418854935" duration="2322000" />
+      <workItem from="1772418854935" duration="4154000" />
     </task>
     <servers />
   </component>
