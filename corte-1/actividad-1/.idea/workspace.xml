@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed818786-6dde-4eae-a4fc-1626044f26f1" name="Changes" comment="" />
+    <list default="true" id="ed818786-6dde-4eae-a4fc-1626044f26f1" name="Changes" comment="hola mundo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -25,6 +26,12 @@
     &quot;accountId&quot;: &quot;144f0ce4-0ef5-4c9e-b140-41f7d42a0b5c&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -36,39 +43,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Run",
-    "Application.ejercicio_01.executor": "Run",
-    "Application.ejercicio_02.executor": "Run",
-    "Application.ejercicio_03.executor": "Run",
-    "Application.ejercicio_04.executor": "Run",
-    "Application.ejercicio_05.executor": "Run",
-    "Application.ejercicio_06.executor": "Run",
-    "Application.ejercicio_07.executor": "Run",
-    "Application.ejercicio_08.executor": "Run",
-    "Application.ejercicio_10.executor": "Run",
-    "Application.ejercicio_6.executor": "Run",
-    "Application.ejercicios_09.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "OverrideImplement.generate.javadoc": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "314",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/larry/NetBeansProjects/ejercicio-02",
-    "onboarding.tips.debug.path": "/home/larry/IdeaProjects/Fundamentos de POO/actividad-1/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "project.propGUI",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicios_09.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;314&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/larry/IdeaProjects/Fundamentos-de-POO&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/larry/IdeaProjects/Fundamentos de POO/actividad-1/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ejercicio_10">
-    <configuration name="ejercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_06" />
+}</component>
+  <component name="RunManager" selected="Application.ejercicio_01">
+    <configuration name="ejercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_01" />
       <module name="actividad-1" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejercicio_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_07" />
+    <configuration name="ejercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ejercicio_05" />
       <module name="actividad-1" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejercicio_01" />
+        <item itemvalue="Application.ejercicio_05" />
         <item itemvalue="Application.ejercicio_10" />
         <item itemvalue="Application.ejercicio_09" />
         <item itemvalue="Application.ejercicio_08" />
-        <item itemvalue="Application.ejercicio_07" />
-        <item itemvalue="Application.ejercicio_06" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +155,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -164,21 +172,49 @@
       <workItem from="1772409089606" duration="1824000" />
       <workItem from="1772411753292" duration="6969000" />
       <workItem from="1772418854935" duration="4506000" />
+      <workItem from="1772423795349" duration="658000" />
+      <workItem from="1774659396628" duration="4000" />
+      <workItem from="1774659460534" duration="3000" />
+      <workItem from="1774659488650" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Ajuste de nombre del ejercicio 09." />
+    <MESSAGE value="hola mundo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hola mundo" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
